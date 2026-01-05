@@ -1,20 +1,13 @@
 <div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+<img width="1200" height="475" alt="GHBanner" src="https://raw.githubusercontent.com/syedadam007/Stranger-Run-1984/refs/heads/main/strangerrun1984.png" />
 </div>
 
 # Run and deploy your AI Studio app
 
-This contains everything you need to run your app locally.
+Stranger Run 1984
 
-View your app in AI Studio: https://ai.studio/apps/drive/1qR5yBCuurjC5l0k35yxpUEAQG3bsG3JN
+Inspired by the iconic Chrome dino runner and the eerie world of Stranger Things, Stranger Run 1984 throws you straight into a retro nightmare where the Upside Down never sleeps.
 
-## Run Locally
+Sprint through a dark, glitching 80s arcade world as reality breaks apart around you. Dodge Demogorgons, evade Vecna’s creeping curse, and outrun government forces as the screen pulses with neon static and synth-heavy tension. The farther you run, the more unstable the world becomes—faster enemies, warped visuals, and pure survival instinct.
 
-**Prerequisites:**  Node.js
-
-
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+No saves. No mercy. Just reflexes, fear, and how long you can last.
